@@ -9,7 +9,10 @@ Reusable OpenClaw skill for building and maintaining a Git-based memory vault st
 
 ## Update policy
 
-Update this repository whenever **memory vault structure** changes, including:
+**Maintainer-only:** only designated maintainers may update this repository.
+Consumer agents should use this skill as read-only and must not push changes.
+
+Maintainers should update this repository whenever **memory vault structure** changes, including:
 - folder layout changes
 - workspace→vault path mapping changes
 - `.gitignore` allowlist policy changes

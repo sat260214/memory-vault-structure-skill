@@ -17,7 +17,7 @@ Create and maintain a reusable memory-vault repository that stores agent memory 
 4. Add sync/backup scripts from `references/scripts.md`.
 5. Validate by running one sync + one backup pass.
 6. Commit and push.
-7. For future structure changes, update the same references and scripts in this skill.
+7. For future structure changes, ask a designated maintainer to update the same references and scripts in this skill.
 
 ## Scope rule: structure changes vs content changes
 
